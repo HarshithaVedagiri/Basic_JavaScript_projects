@@ -1,4 +1,4 @@
-# JS
+# JS, HTML and CSS
 
 # 1) Hello
 
